@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1><b>TrapChat.io</b></h1>
         <p>
           A Privacy Minded, Security Driven Chat Service, <b>Coming Soon.</b>
         </p>
