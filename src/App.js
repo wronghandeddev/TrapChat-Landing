@@ -17,7 +17,7 @@ function App() {
           </a>
           <div className="App-Footer">
             <p>
-              Made  By <a href="https://wronghanded.com/" target="_blank" rel="noreferrer" className="footer">
+              Made  By <a href="https://wronghanded.com" target="_blank" rel="noreferrer" className="footer">
                 Wronghanded Development
             </a>
             </p>
